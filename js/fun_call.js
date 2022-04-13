@@ -1,0 +1,11 @@
+ba(1,'img/base/')
+mi()
+mt()
+st()
+homefun(1)
+ng1()
+ng2()
+ng3()
+ngblog()
+
+flashfun(1)
